@@ -1,0 +1,7 @@
+C:\Users\Я\Documents\GitHub\Test\Test_Project\Test_Project\bin\Debug\Test_Project.exe.config
+C:\Users\Я\Documents\GitHub\Test\Test_Project\Test_Project\bin\Debug\Test_Project.exe
+C:\Users\Я\Documents\GitHub\Test\Test_Project\Test_Project\bin\Debug\Test_Project.pdb
+C:\Users\Я\Documents\GitHub\Test\Test_Project\Test_Project\obj\Debug\Test_Project.csprojAssemblyReference.cache
+C:\Users\Я\Documents\GitHub\Test\Test_Project\Test_Project\obj\Debug\Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\Я\Documents\GitHub\Test\Test_Project\Test_Project\obj\Debug\Test_Project.exe
+C:\Users\Я\Documents\GitHub\Test\Test_Project\Test_Project\obj\Debug\Test_Project.pdb
